@@ -66,7 +66,7 @@ dependencies {
     testImplementation "com.google.truth:truth:0.39"
     testImplementation 'org.mockito:mockito-all:1.10.17'
 
-    testAnnotationProcessor 'com.google.auto.service:auto-service:1.0-rc4'
+    testAnnotationProcessor 'com.google.auto.service:auto-service:1.1.1'
 }
 
 tasks.withType(JavaCompile) {
