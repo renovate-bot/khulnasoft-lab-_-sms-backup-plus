@@ -63,7 +63,7 @@ dependencies {
 
     testImplementation 'junit:junit:4.12'
     testImplementation 'org.robolectric:robolectric:4.3.1'
-    testImplementation "com.google.truth:truth:0.39"
+    testImplementation "com.google.truth:truth:0.46"
     testImplementation 'org.mockito:mockito-all:1.10.17'
 
     testAnnotationProcessor 'com.google.auto.service:auto-service:1.0-rc4'
